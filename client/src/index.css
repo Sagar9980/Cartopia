@@ -54,9 +54,9 @@
 .footer {
   color: white;
   padding: 25px;
- /* fallback for old browsers */
-  
-  background: linear-gradient(to right, #5E548E, #9F86C0);
+  /* fallback for old browsers */
+
+  background: linear-gradient(to right, #5e548e, #9f86c0);
 }
 
 .footer a {
